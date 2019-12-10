@@ -1,0 +1,23 @@
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.exe.config
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.exe
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\bin\Debug\TheMovieDB.pdb
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\bin\Debug\RestSharp.dll
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\bin\Debug\RestSharp.xml
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.csprojAssemblyReference.cache
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.Form1.resources
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.Properties.Resources.resources
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.csproj.GenerateResource.cache
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.csproj.CopyComplete
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.exe
+C:\Users\Michael Ayesa Momo\source\repos\TheMovieDB\TheMovieDB\obj\Debug\TheMovieDB.pdb
+C:\Users\micha\source\repos\TheMovieDB\bin\Debug\TheMovieDB.exe.config
+C:\Users\micha\source\repos\TheMovieDB\bin\Debug\TheMovieDB.exe
+C:\Users\micha\source\repos\TheMovieDB\bin\Debug\TheMovieDB.pdb
+C:\Users\micha\source\repos\TheMovieDB\bin\Debug\RestSharp.xml
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.Form1.resources
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.Properties.Resources.resources
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.csproj.CopyComplete
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.exe
+C:\Users\micha\source\repos\TheMovieDB\obj\Debug\TheMovieDB.pdb
